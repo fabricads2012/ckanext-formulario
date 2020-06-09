@@ -1,0 +1,4 @@
+
+        [ckan.plugins]
+        formulario=ckanext.formulario.plugin:FormularioPlugin
+    

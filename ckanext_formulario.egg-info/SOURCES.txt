@@ -1,0 +1,11 @@
+setup.py
+ckanext/__init__.py
+ckanext/formulario/__init__.py
+ckanext/formulario/plugin.py
+ckanext_formulario.egg-info/PKG-INFO
+ckanext_formulario.egg-info/SOURCES.txt
+ckanext_formulario.egg-info/dependency_links.txt
+ckanext_formulario.egg-info/entry_points.txt
+ckanext_formulario.egg-info/namespace_packages.txt
+ckanext_formulario.egg-info/not-zip-safe
+ckanext_formulario.egg-info/top_level.txt
